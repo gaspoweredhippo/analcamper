@@ -2,7 +2,6 @@
 title: Anal Camper
 email: gaspoweredhippo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  &#42;This fotochopped blog is a parody.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://analcamper.com" # the base hostname & protocol for your site
 twitter_username: gaspoweredhippo
